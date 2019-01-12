@@ -1,8 +1,8 @@
 //Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
 //Tool Version: Vivado v.2018.3 (lin64) Build 2405991 Thu Dec  6 23:36:41 MST 2018
-//Date        : Fri Dec 14 23:36:41 2018
-//Host        : neptune running 64-bit Ubuntu 18.04.1 LTS
+//Date        : Sat Jan 12 22:56:35 2019
+//Host        : saturn running 64-bit unknown
 //Command     : generate_target ultra96_wrapper.bd
 //Design      : ultra96_wrapper
 //Purpose     : IP block netlist
